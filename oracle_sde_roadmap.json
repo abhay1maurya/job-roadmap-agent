@@ -1,0 +1,69 @@
+{
+  "company": "oracle",
+  "role": "sde",
+  "rounds": [
+    {
+      "type": "Technical Screening",
+      "topics": [
+        "Data Structures (Arrays, Linked Lists, Trees, Graphs)",
+        "Algorithms (Sorting, Searching, Dynamic Programming)",
+        "Problem Solving (LeetCode Easy/Medium)",
+        "Time and Space Complexity Analysis",
+        "Oracle-Specific Technologies (if mentioned)"
+      ]
+    },
+    {
+      "type": "Coding Round/Live Coding",
+      "topics": [
+        "Implementation of Data Structures and Algorithms",
+        "Code Optimization",
+        "Error Handling",
+        "Testing",
+        "Object-Oriented Programming Principles"
+      ]
+    },
+    {
+      "type": "System Design (Potentially for Mid-Level+)",
+      "topics": [
+        "Scalability",
+        "Database Design",
+        "API Design",
+        "Microservices Architecture",
+        "Load Balancing"
+      ]
+    },
+    {
+      "type": "Behavioral Interview",
+      "topics": [
+        "Teamwork and Collaboration",
+        "Communication Skills",
+        "Problem-Solving Approach",
+        "Adaptability",
+        "Conflict Resolution"
+      ]
+    }
+  ],
+  "difficulty": "Medium",
+  "recommended_order": [
+    "Data Structures",
+    "Algorithms",
+    "Problem Solving",
+    "System Design",
+    "Behavioral"
+  ],
+  "evidence": {
+    "key_skills": [
+      "Designing software programs",
+      "Developing software programs",
+      "Troubleshooting software programs",
+      "Debugging software programs",
+      "Writing code",
+      "Collaborating with cross-functional teams",
+      "Optimizing performance",
+      "Agile environment"
+    ],
+    "topic_count": 4
+  },
+  "generated_at": "2025-10-29T00:07:45.904363",
+  "version": "1.0"
+}

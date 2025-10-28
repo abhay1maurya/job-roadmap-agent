@@ -1,0 +1,64 @@
+{
+  "company": "google",
+  "role": "sde3",
+  "rounds": [
+    {
+      "type": "Technical Screening",
+      "topics": [
+        "Data Structures (Arrays, Linked Lists, Trees, Graphs)",
+        "Algorithms (Sorting, Searching, Dynamic Programming)",
+        "Problem Solving (LeetCode Medium)",
+        "Time and Space Complexity Analysis"
+      ]
+    },
+    {
+      "type": "Coding Round",
+      "topics": [
+        "Object-Oriented Programming (Design Principles)",
+        "API Design (RESTful Principles)",
+        "Microservices Architecture",
+        "Concurrency and Multithreading"
+      ]
+    },
+    {
+      "type": "System Design",
+      "topics": [
+        "Scalability (Horizontal and Vertical)",
+        "Database Design (SQL/NoSQL)",
+        "Load Balancing",
+        "Caching Strategies",
+        "Distributed Systems"
+      ]
+    },
+    {
+      "type": "Behavioral",
+      "topics": [
+        "Teamwork and Collaboration",
+        "Communication Skills",
+        "Leadership Experience",
+        "Conflict Resolution",
+        "Googleyness"
+      ]
+    }
+  ],
+  "difficulty": "Hard",
+  "recommended_order": [
+    "Data Structures",
+    "Algorithms",
+    "System Design",
+    "REST APIs and Microservices",
+    "Behavioral"
+  ],
+  "evidence": {
+    "key_skills": [
+      "Data Structures",
+      "Algorithms",
+      "REST APIs",
+      "Microservices",
+      "Cloud Platforms"
+    ],
+    "topic_count": 5
+  },
+  "generated_at": "2025-10-29T00:01:39.391638",
+  "version": "1.0"
+}
