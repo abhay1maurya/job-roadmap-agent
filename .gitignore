@@ -1,0 +1,7 @@
+# Ignore environment and local files
+venv/
+__pycache__/
+.env
+*.json
+*.log
+roadmap_outputs/
