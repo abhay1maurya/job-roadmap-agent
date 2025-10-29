@@ -14,7 +14,7 @@ This project generates an **AI-powered interview preparation roadmap** by combin
 - **Company Process Insights (Company Agent)**
 - **Study Plan & Skill Prioritization (Roadmap Builder Agent)**
 
-It uses **Gemini-Pro** (via LangChain) for reasoning and structured JSON outputs and integrates **DuckDuckGo Search API** for real-time company insights.
+It uses **Gemini-2.0-flash** (via LangChain) for reasoning and structured JSON outputs and integrates **DuckDuckGo Search API** for real-time company insights.
 
 ---
 
@@ -65,7 +65,7 @@ The user provides:
 The input is passed into the **RoadmapGenerator** class.
 
 ### 2. **JD Parsing & Skill Extraction**
-The system uses Gemini-Pro through LangChain to:
+The system uses Gemini-2.0-flash through LangChain to:
 - Identify **key skills**, tools, and domains mentioned in the job description.
 - Estimate the **difficulty level** (Easy / Medium / Hard / Very Hard).
 - Detect the **role category** (e.g., Backend Engineer, Data Analyst, Product Manager).
