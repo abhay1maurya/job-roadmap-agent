@@ -1,0 +1,74 @@
+{
+  "company": "Google",
+  "role": "SDE2",
+  "rounds": [
+    {
+      "type": "Technical Screening",
+      "topics": [
+        "Data Structures (Arrays, Linked Lists, Trees, Graphs, Hash Tables)",
+        "Algorithms (Sorting, Searching, Dynamic Programming, Graph Algorithms)",
+        "Problem Solving (LeetCode Medium/Hard)",
+        "Time and Space Complexity Analysis",
+        "Coding Proficiency (Clean, Efficient, and Testable Code)"
+      ]
+    },
+    {
+      "type": "Coding Round",
+      "topics": [
+        "Object-Oriented Programming (Design Principles, SOLID)",
+        "System Design Fundamentals (Scalability, Availability, Consistency)",
+        "API Design (RESTful APIs, Versioning)",
+        "Concurrency and Multithreading",
+        "Testing (Unit, Integration, End-to-End)"
+      ]
+    },
+    {
+      "type": "System Design",
+      "topics": [
+        "High-Level Design (System Architecture, Component Interaction)",
+        "Scalability (Horizontal Scaling, Load Balancing, Caching)",
+        "Database Design (Relational vs. NoSQL, Schema Design)",
+        "Distributed Systems (CAP Theorem, Consensus Algorithms)",
+        "Performance Optimization (Bottleneck Identification, Optimization Techniques)"
+      ]
+    },
+    {
+      "type": "Behavioral",
+      "topics": [
+        "Teamwork and Collaboration",
+        "Communication Skills (Clear and Concise Explanation)",
+        "Leadership and Initiative",
+        "Conflict Resolution",
+        "Googleyness (Cultural Fit)"
+      ]
+    },
+    {
+      "type": "Take-Home Assignment/Live Coding",
+      "topics": [
+        "Problem Decomposition",
+        "Code Quality",
+        "Testing",
+        "Documentation",
+        "Adherence to Requirements"
+      ]
+    }
+  ],
+  "difficulty": "Hard",
+  "recommended_order": [
+    "Data Structures",
+    "Algorithms",
+    "Object-Oriented Programming",
+    "System Design",
+    "Behavioral"
+  ],
+  "evidence": {
+    "key_skills": [
+      "Coding",
+      "Problem-Solving",
+      "Communication"
+    ],
+    "topic_count": 5
+  },
+  "generated_at": "2025-10-29T07:52:16.838304",
+  "version": "1.0"
+}
